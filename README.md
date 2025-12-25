@@ -69,7 +69,7 @@ sequenceDiagram
 
 ## 📁 Project Structure
 ```text
-Build-Your-Own-Mcp-Server-Client/
+End-to-End MCP Tooling System with Vertex AI Gemini/
 ├── weather/
 │   ├── weather.py        # MCP server: FastMCP runtime + weather tools
 │   ├── client.py         # MCP client: Gemini reasoning + tool loop
@@ -115,8 +115,8 @@ Follow these steps to run the MCP server and client locally.
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/AvinashBolleddula/Build-Your-Own-Mcp-Server-Client.git
-cd Build-Your-Own-Mcp-Server-Client/weather
+git clone https://github.com/AvinashBolleddula/End-to-End-MCP-Tooling-System-with-Vertex-AI-Gemini.git
+cd End-to-End-MCP-Tooling-System-with-Vertex-AI-Gemini/weather
 ```
 
 ### 2️⃣ Create and activate a virtual environment
